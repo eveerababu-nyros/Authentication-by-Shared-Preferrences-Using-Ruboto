@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name='app_name'>
+        Authentication App
+    </string>
+    <string name="login_text">"Login and Logout Functionality "</string>
+    <string name="user_text">UserName</string>
+    <string name="password_text">Password</string>
+    <string name="signin_text">SignIn</string>
+    <string name="signup_text">SignUp</string>
+	<string name="username_text">UserName</string>
+    <string name="userpassword_text">Password</string>
+    <string name="logininfo_text">LoginInfo</string>
+    <string name="personalinfo_text">Personal Information</string>
+    <string name="firstname_text">First Name</string>
+    <string name="lastname_text">Last Name</string>
+	 <string name="save_text">Save</string>
+    <string name="reset_text">Reset</string>
+    <string name="phone_text">Phone Number</string>
+    <string name="email_text">Email</string>
+</resources>
